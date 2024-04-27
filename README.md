@@ -26,5 +26,5 @@ In this repository, you will find a collection of Jupyter Notebooks that demonst
 To get started with these notebooks, you can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-jupyter.git
+git clone https://github.com/Saritagomi/machine-learning-jupyter.git
 
